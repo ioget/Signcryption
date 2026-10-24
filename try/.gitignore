@@ -1,0 +1,5 @@
+# Dossier d essais manuels
+# Tout ce qui est genere pendant les tests a la main va ici.
+*
+!.gitignore
+!README.md

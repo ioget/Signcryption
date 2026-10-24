@@ -1,0 +1,19 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Cle privee du RA : ne jamais versionner.
+.ra/
+
+# Comptes : contiennent les cles privees chiffrees.
+register-key/*.pem
+
+# Essais manuels.
+try/*
+!try/.gitignore
+!try/README.md
+
+# Essais complets.
+full-try/*
+!full-try/README.md

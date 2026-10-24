@@ -1,0 +1,10 @@
+ATTESTATION DE PARTICIPATION
+
+Je soussignee Fatou Ndiaye, doctorante a l'Universite Gaston Berger,
+atteste que le schema de signcryption SN decrit par Togde et Sarr a ete
+implemente et teste dans le cadre de ce projet.
+
+Montant de la bourse allouee : 750 EUR
+Date de fin de projet        : 2026-12-15
+
+Fait a Saint-Louis.
